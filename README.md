@@ -20,6 +20,16 @@ Je m'intéresse au gameplay, à l'IA, et à la programmation d'outils. Fan de RP
 
 **[ProjectSidescrollerRPG](https://github.com/flevesque12/ProjectSidescrollerRPG)** — RPG side-scroller inspiré de Zelda 2 / Faxanadu
 
+## 🕹️ Game Jams
+
+**[GlobalGameJam-MTL-GJ/Game](https://github.com/GlobalGameJam-MTL-GJ/Game)** — Projet réalisé pour la Global Game Jam
+
+**[geekymoose/ShippedTooSoon](https://github.com/geekymoose/ShippedTooSoon)** — Dungeon Crawler solo (speed run 2D game)
+
+**[McGameJam2020](https://github.com/flevesque12/McGameJam2020)** — Escape from blackhole, 2D game jam sous Unity3D/C#
+
+**[CGXProject2020](https://github.com/flevesque12/CGXProject2020)** — Projet réalisé pour la CGX game jam 2020
+
 ## 🔗 Retrouve-moi ailleurs
 
 **itch.io :** https://fredericlevesque.itch.io/
