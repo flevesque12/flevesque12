@@ -18,6 +18,8 @@ Je m'intéresse au gameplay, à l'IA, et à la programmation d'outils. Fan de RP
 
 **[AARPGProject](https://github.com/flevesque12/AARPGProject)** — ARPG isométrique solo dans Unity 6, combat façon PoE2
 
+**[ProjectHollowLines](https://github.com/flevesque12/HollowLines)** — A tiny pixel-art driller descends into a well that never ends.
+
 **[ProjectSidescrollerRPG](https://github.com/flevesque12/ProjectSidescrollerRPG)** — RPG side-scroller inspiré de Zelda 2 / Faxanadu
 
 ## 🕹️ Game Jams
