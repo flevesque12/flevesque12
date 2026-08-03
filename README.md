@@ -16,7 +16,7 @@ Je m'intéresse au gameplay, à l'IA, et à la programmation d'outils. Fan de RP
 
 ## 🎮 Projets phares
 
-**[AARPGProject](https://github.com/flevesque12/AARPGProject)** — ARPG isométrique solo dans Unity 6, combat façon PoE2
+**[AARPGProject](https://github.com/flevesque12/AARPGProject)** — Toon fantasy, 3e personne, spell crafting modulaire, 7 écoles, Grimoire
 
 **[ProjectHollowLines](https://github.com/flevesque12/HollowLines)** — A tiny pixel-art driller descends into a well that never ends.
 
